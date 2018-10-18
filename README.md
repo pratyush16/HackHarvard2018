@@ -1,1 +1,1 @@
-"# HackHarvard2018" 
+# HackHarvard2018
